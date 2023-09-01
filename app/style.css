@@ -1,8 +1,8 @@
 body {
   text-align: center;
   font-family: "Happy Monkey", cursive;
-  background-color: #a2d2ff;
   color: white;
+  background: linear-gradient(#a2d2ff, #efb0c9);
 }
 #dhoni-img {
   border-radius: 80px;
