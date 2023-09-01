@@ -1,0 +1,10 @@
+body {
+  text-align: center;
+  font-family: "Happy Monkey", cursive;
+  background-color: #a2d2ff;
+  color: white;
+}
+#dhoni-img {
+  border-radius: 80px;
+  width: 150px;
+}
